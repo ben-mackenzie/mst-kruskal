@@ -1,0 +1,19 @@
+Graph Edges: Origin, Destination, Weight of edge 
+
+Vertex legend: a=0, b=1,c=2,d=3,e=4,f=5 
+
+Origin: 0 Destination: 2 Weight of edge: 1
+
+Origin: 3 Destination: 4 Weight of edge: 2
+
+Origin: 4 Destination: 5 Weight of edge: 2
+
+Origin: 1 Destination: 2 Weight of edge: 3
+
+Origin: 1 Destination: 5 Weight of edge: 4
+
+Sum of Original Graph Weights:
+34
+
+Kruskal MST Weight:
+12
