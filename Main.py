@@ -1,16 +1,3 @@
-'''
-
- * Driver.cpp
- *
- *  Created on: April 1, 2018
- *  Author: Ben Mackenzie
- 
- This driver constructs a graph from a map of vertices and edges,
- then converts that graph to a minimum spanning tree (MST) using
- Kruskal's algorithm, writing the vertices and edges of the
- MST to a file along with the total of the weights of the MST.
-'''
-
 from graph import Graph
 from kruskal import MST_Kruskal
 import sys
