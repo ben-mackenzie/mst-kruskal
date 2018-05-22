@@ -12,7 +12,7 @@ An exploration of Kruskal's algorithm for minimum spanning trees.
     
  Output
     
-    A minimum spanning tree.   
+    A minimum spanning tree created from the graph.   
 
  
 Ben Mackenzie - April 1, 2018
